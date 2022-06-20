@@ -111,7 +111,7 @@ height: 600px;
   background: var(--color);
   color: white;
 }main{
-  margin-top: 50%;
+  margin-top: 10%;
   font-size: 26px
 }span i{
   color: var(--color)
